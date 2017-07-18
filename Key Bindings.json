@@ -1,0 +1,3 @@
+[
+      { "keys": ["Ctrl+F12"], "command": "jupyter_here" }
+]
